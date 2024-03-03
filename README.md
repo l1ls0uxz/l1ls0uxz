@@ -24,5 +24,3 @@
 
 ![Lil s0uxz's GitHub stats](https://github-readme-stats.vercel.app/api?username=lils0uxz&show_icons=true&theme=transparent)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lils0uxz&layout=compact)](https://github.com/lils0uxz)

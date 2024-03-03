@@ -1,6 +1,5 @@
 ## Hello, 🖐🏻
 
-<img src="./imgs/StarStudio.png" alt="StarDev" width="30%">
 
 ### ✨ About Me ✨
 

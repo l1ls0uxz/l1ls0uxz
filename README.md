@@ -9,7 +9,7 @@
 
 🎵 I love listening to music while working 👨🏻‍💻
 
-🔥 **NEW GOAL 2024: Road to Full-Stack Developer** 🔥
+🔥 **NEW GOAL 2025: Road to Full-Stack Developer** 🔥
 
 
 ## 🌐 My Socials
